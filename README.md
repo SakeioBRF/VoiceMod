@@ -7,4 +7,4 @@
 - Open archive
 - Unzip the archive to your desktop
 - Run the exe file
-- Start the game and press f12
+
